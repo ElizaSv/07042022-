@@ -1,0 +1,15 @@
+ul {
+    list-style-type: none;
+    margin:0;
+    padding:0;
+    }
+li a {
+    display: block;
+    text-decoration:none;
+    padding:10px 16px;
+    border: 1px solid darkblue;
+    margin: 5px;
+    width: 100px;
+    text-align: center;
+    background-color: rgb(123, 130, 208);
+    }
